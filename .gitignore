@@ -1,0 +1,15 @@
+# Build output
+**/bin/
+**/obj/
+**/TestResults/
+**/coverage/
+
+# IDE / OS
+.idea/
+.vs/
+.DS_Store
+*.DotSettings.user
+
+# Lokale configuratie met geheimen (zie appsettings.Development.example.json)
+appsettings.Development.json
+.env
